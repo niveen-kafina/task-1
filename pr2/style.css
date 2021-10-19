@@ -1,0 +1,33 @@
+#style.css>button
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+section{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(66, 62, 78);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+button{
+    height: 20px;
+    width: 40px;
+    background-color: rgb(3, 151, 161);
+    color: beige;
+    border: 2px;color: burlywood;
+    border-radius: 4px;
+    cursor:pointer ;
+    
+}
+.btn-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
